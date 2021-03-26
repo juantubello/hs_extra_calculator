@@ -4,9 +4,9 @@ _El programa es una simple aplicación desktop desarrollada en python, la cual t
 no tenga que realizar el calculo manualmente todos los meses. El proceso es sencillo, me descargo un excel con toda la informacion de mis horas al mes, este 
 se sube directamente a la aplicacion y esta ma devuelve la cantidad de horas extra REALES trabajas y la plata a cobrar en base a la tarifa que se le indica._
 
-## Comenzando 🚀
+## Importante 🚀
 
-_Si estas buscando compilar le archivo.py, es necesario que sepas que la lógica esta diseñada en base a un formato de excel (el cual usa mi empresa), asi que 
+_Si estas buscando compilar el archivo.py, es necesario que sepas que la lógica esta diseñada en base a un formato de excel (el cual usa mi empresa), asi que 
 te recomendaria que mires con detalle las funciones calulate_hs_extra y load_excel_data antes de compilar._
 
 ### Pre-requisitos 📋
