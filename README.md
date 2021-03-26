@@ -7,7 +7,7 @@ se sube directamente a la aplicacion y esta ma devuelve la cantidad de horas ext
 ## Importante 🚀
 
 _Si estas buscando ejecutar/compilar el archivo.py, es necesario que sepas que la lógica esta diseñada en base a un formato de excel (el cual usa mi empresa), asi que 
-te recomendaria que mires con detalle las funciones calulate_hs_extra y load_excel_data antes de ejecutar/compilar._
+te recomendaria que mires con detalle las funciones calulate_hs_extra y load_excel_data y las modifiques segun tus requerimientos antes de ejecutar/compilar._
 
 ### Pre-requisitos 📋
 
