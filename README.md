@@ -38,4 +38,4 @@ varias carpetas, dentro de /dist esta el .EXE generado el cual levanta la app! m
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](https://github.com/juantubello/hs_extra_calculator/blob/main/LICENSE) para detalles
+Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE.md](https://github.com/juantubello/hs_extra_calculator/blob/main/LICENSE) para detalles
