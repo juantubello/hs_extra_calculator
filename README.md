@@ -11,7 +11,7 @@ te recomendaria que mires con detalle las funciones calulate_hs_extra y load_exc
 
 ### Pre-requisitos 📋
 
-_-Contar con [Python](https://www.python.org/) instalado y las librerias:_
+_Contar con [Python](https://www.python.org/) instalado y las librerias:_
  - `PANDAS`
  - `XLDR`
  - `PYINSTALLER`
