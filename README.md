@@ -1,10 +1,3 @@
-# hs_extra_calculator
-Simple desktop app that retrieves data from excel and calculte the total of extra hours that I worked
-
-This app was developed in Linux sistem but I am currently using it in Windows 10 S.O, so basically I compiled it and generate only the binaries for this particualry SO with 
-this command on Windows VM CMD: ##
-once it builded is availible you will find the .exe on /dist folder!
-
 # Calculador de horas extra
 
 _El programa es una simple aplicación desktop desarrollada en python, la cual tiene como proposito calcular las horas extra que trabajo por mes, de manera que yo
