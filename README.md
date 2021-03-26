@@ -31,9 +31,11 @@ indicadas en Pre-requisistos
 ## Compilar 📦
 
 _La aplicación fue codificada en LINUX pero no fue complilada en este, ya que mi S.O principal es Windows 10 y los binarios son distintos, asi que voy a dejar el comando
-que utilice, pero este es valido unicamente para sistemas operativos windows. Dentro de una carpeta, metes dentro el archivo.py (programa) luego por CMD entras a la 
-ruta de esta misma y mediante el comando `pyinstaller --onefile --noconsole --hidden-import=xlrd  --hidden-import=pandas._libs.tslibs.timedelta hs_extra.py` se van a generar 
-varias carpetas, dentro de /dist esta el .EXE generado el cual levanta la app! muy sencillo 😊_
+que utilice, pero este es valido unicamente para sistemas operativos windows. 
+
+Para compilar, creas una nueva carpeta ejemplo `horas_extra_files` dentro de esta, metes dentro el archivo `hs_extra.py` y luego por CMD entras a la 
+ruta de esta misma, corremos el comando `pyinstaller --onefile --noconsole --hidden-import=xlrd  --hidden-import=pandas._libs.tslibs.timedelta hs_extra.py`  y se van a generar 
+varias carpetas, dentro de `/dist` esta el `.EXE` generado el cual levanta la app! muy sencillo 😊_
 
 ## Autor ✒️
 
