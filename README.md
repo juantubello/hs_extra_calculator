@@ -23,8 +23,7 @@ indicadas en Pre-requisistos
 
 Si es el segundo caso, nuvamente usas `pip install` pero sin necesidad de entrar al ambiente, instalas las librerias mencionadas
 
-Finalmente para ambos casos solo hay que correr python hs_extra.py para que localmente levante la app
-_
+Finalmente para ambos casos solo hay que correr python hs_extra.py para que localmente levante la app_
 
 ## Compilar 📦
 
