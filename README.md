@@ -24,7 +24,7 @@ instalas las dependencias globalmente_
 - Si es el primer caso [VirtualEnvironments](https://docs.python.org/3/tutorial/venv.html)  entras dentro del mismo y mediante `pip install` instalas las librerias 
 indicadas en Pre-requisistos
 
-- Si es el segundo caso, nuvamente usas `pip install` pero sin necesidad de entrar al ambiente, instalas las librerias mencionadas
+- Si es el segundo caso, nuvamente usas `pip install` pero sin necesidad de entrar al ambiente, instalas las librerias mencionadas en Pre-requisitos de manera global
 
 - Finalmente para ambos casos solo hay que correr python hs_extra.py para que localmente levante la app
 
