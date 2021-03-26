@@ -18,7 +18,7 @@ _Contar con python instalado [Python](https://www.python.org/) y las librerias `
 _Para correr la aplicacion hay 2 formas, las cuales dependen exclusivamente si usas enviorements para tus desarrollos o
 instalas las dependencias globalmente en tu pc_
 
-_Si es el primer caso [Activas tu ambiente]https://docs.python.org/3/tutorial/venv.html  entras dentro del mismo y mediante `pip install` instalas las librerias 
+_Si es el primer caso [VirtualEnvironments]https://docs.python.org/3/tutorial/venv.html  entras dentro del mismo y mediante `pip install` instalas las librerias 
 indicadas en Pre-requisistos_
 
 _Si es el segundo caso, nuvamente usas `pip install` pero sin necesidad de entrar al ambiente, instalas las librerias mencionadas_
