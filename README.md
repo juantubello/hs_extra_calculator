@@ -2,7 +2,7 @@
 
 _El programa es una simple aplicación desktop desarrollada en python, la cual tiene como proposito calcular las horas extra que trabajo por mes, de manera que yo
 no tenga que realizar el calculo manualmente todos los meses. El proceso es sencillo, me descargo un excel con toda la informacion de mis horas al mes, este 
-se sube directamente a la aplicacion y esta ma devuelve la cantidad de horas extra REALES trabajas y la plata a cobrar en base a la tarifa que se le indica. _
+se sube directamente a la aplicacion y esta ma devuelve la cantidad de horas extra REALES trabajas y la plata a cobrar en base a la tarifa que se le indica._
 
 ## Comenzando 🚀
 
