@@ -13,9 +13,9 @@ te recomendaria que mires con detalle las funciones calulate_hs_extra y load_exc
 
 _Contar con [Python](https://www.python.org/) instalado y las librerias_
 
- - `PANDAS`.
- - `XLDR`.
- - `PYINSTALLER`.
+ - `PANDAS`
+ - `XLDR`
+ - `PYINSTALLER`
 
 ### Instalación 🔧
 
