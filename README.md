@@ -33,7 +33,7 @@ indicadas en Pre-requisistos
 _La aplicación fue codificada en LINUX pero no fue complilada en este, ya que mi S.O principal es Windows 10 y los binarios son distintos, asi que voy a dejar el comando
 que utilice, pero este es valido unicamente para sistemas operativos windows._ 
 
-Para compilar, creas una nueva carpeta, por ejemplo `horas_extra_files` metes dentro el archivo `hs_extra.py` y luego por CMD entras a la 
+Para compilar, creas una nueva carpeta, por ejemplo `horas_extra_files` y metes dentro el archivo `hs_extra.py` y luego por CMD entras a la 
 ruta de esta misma, corremos el comando:
 - `pyinstaller --onefile --noconsole --hidden-import=xlrd  --hidden-import=pandas._libs.tslibs.timedelta hs_extra.py`
 
